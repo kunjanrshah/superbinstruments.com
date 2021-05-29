@@ -1,0 +1,9 @@
+[16-Feb-2021 20:17:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[16-Feb-2021 20:17:21 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[16-Feb-2021 20:17:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[21-Feb-2021 16:50:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[21-Feb-2021 16:50:41 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[21-Feb-2021 16:50:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[24-Feb-2021 05:11:58 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[24-Feb-2021 05:11:58 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home2/superbi1/public_html/wp-includes/functions.php on line 8
+[24-Feb-2021 05:11:58 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home2/superbi1/public_html/wp-includes/functions.php on line 8
